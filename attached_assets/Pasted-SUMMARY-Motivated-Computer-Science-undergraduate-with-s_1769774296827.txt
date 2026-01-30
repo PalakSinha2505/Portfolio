@@ -1,0 +1,104 @@
+SUMMARY
+
+Motivated Computer Science undergraduate with strong academic performance and a solid grasp of core computing concepts, seeking opportunities in Software Engineering.
+
+Actively interested in learning how large-scale, reliable software systems are designed and maintained in industrial and enterprise environments, with hands-on exposure through academic and personal projects.
+
+Motivated to contribute to digitalization, automation, and sustainable technology through curiosity, responsibility, and continuous improvement.
+
+EDUCATION
+
+Banasthali Vidyapith
+Bachelor of Technology in Computer Science
+Expected May 2027
+CGPA: 8.34 / 10.00
+Tonk, Rajasthan
+
+Relevant Coursework:
+
+Data Structures and Algorithms
+
+Design and Analysis of Algorithms
+
+Object-Oriented Programming
+
+Database Management Systems
+
+Operating Systems
+
+Software Engineering
+
+Display this as an animated vertical timeline.
+
+PROJECTS
+
+Only include:
+
+Locora – Smart Travel App for Rajasthan
+
+Tech Stack: React Native, Expo, Node.js, Express, MongoDB
+
+Description:
+
+Developed the frontend and database for a travel app for Rajasthan with location detection, Women SOS alerts, 360° user content, and chat/group planning.
+
+Backend APIs for places, events, and food spots are under development for dynamic content and seamless experience.
+
+Ongoing work includes 360° media support, real-time alerts, and interactive map features.
+
+Include:
+
+3D rotating globe animation
+
+Hover tilt project card
+
+Working GitHub link:
+https://github.com/PalakSinha2505/locora
+
+TECHNICAL SKILLS
+
+Languages:
+C, C++, Java, Python, JavaScript, HTML5, CSS, TypeScript, SQL
+
+Frameworks / Technologies:
+Node.js, Express.js, React.js, Android Studio, MongoDB, MySQL
+
+Tools:
+Git, VS Code, Postman
+
+Concepts:
+Data Structures and Algorithms
+Object-Oriented Programming
+Operating Systems
+Software Engineering
+Computer Organization and Architecture
+Systems Programming
+
+Display as animated grid with subtle floating motion.
+
+ACHIEVEMENTS
+
+Top 50 team in the Internal Smart India Hackathon (SIH) 2025, out of 250+ teams.
+
+Subject Topper – English, CBSE Class XII Boards, 2023.
+
+Bronze League in CodeChef programming contests.
+
+Animated reveal cards.
+
+SOCIAL ENGAGEMENTS
+
+Contributor: Social Summer of Code (SSOC) Season 4
+Mentee: Codess.Cafe Mentorship Program
+
+CONTACT
+
+Email: palaksinha2505@gmail.com
+
+Phone: 7004573316
+
+LinkedIn (must work and open in new tab):
+https://www.linkedin.com/in/palak-sinha-53b24129b/
+
+GitHub (must work and open in new tab):
+https://github.com/PalakSinha2505
