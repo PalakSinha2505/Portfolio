@@ -1,5 +1,5 @@
-import { motion } from 'framer-motion';
-import { Heart } from 'lucide-react';
+import { motion } from "framer-motion";
+import { Heart } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -14,9 +14,6 @@ export default function Footer() {
         >
           <p className="text-muted-foreground text-sm">
             &copy; {new Date().getFullYear()} Palak Sinha. All rights reserved.
-          </p>
-          <p className="text-muted-foreground text-sm flex items-center gap-1">
-            Built with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> using React & Three.js
           </p>
         </motion.div>
       </div>

@@ -13,7 +13,7 @@ const achievements = [
   {
     id: 2,
     title: 'Subject Topper - English',
-    description: 'Subject Topper in English, CBSE Class XII Boards, 2023.',
+    description: 'School Subject Topper in English, CBSE Class XII Boards, 2023.',
     icon: Award,
     color: 'from-violet-500 to-purple-600',
   },
